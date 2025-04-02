@@ -1,4 +1,4 @@
-# Modeling monthly business formations and applications in the USA
+# Modeling monthly business formations and applications in the USA - by Felix Reichel
 
 This repository provides data and a jupyter notebook to analyse the business formation statistics from the [United States Census Bureau](https://www.census.gov/econ/bfs/current/index.html).
 The dataset contains the number of business applications (adjusted for seasonal variation) in the United States and geographical subregions, sorted by sectors and types of applications. 
